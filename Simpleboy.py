@@ -41,7 +41,7 @@ def cetak(b):
 
 def jalan(z):
 	for e in z + '\n':
-		sys.stdout.wriAa	sys.stdout.flush()
+		sys.stdout.wriAah	sys.stdout.flush()
 		time.sleep(00000.1)
 
 
